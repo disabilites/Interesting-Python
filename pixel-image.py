@@ -25,7 +25,10 @@ while True:
 
         if event.type == KEYDOWN:
             if event.key == K_SPACE:
-                pygame.image.save(screen, 'img.png')
+                screen.fill((0, 0, 0))
+
+        if event.key == K_s:
+            pygame.image.save(screen, 'img.png')
 
     for _ in range(10000):
          rand_pos = (randint(0, wide - 1), randint(0, high - 1))
