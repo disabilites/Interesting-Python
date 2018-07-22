@@ -8,7 +8,7 @@ Some simple and interesting Python programs
 
 ***
 
-## FlappyBird.py
+## flappybird.py
 简陋版像素鸟，实现了该游戏的基本功能，将障碍物设置成红色方便碰撞检测
 
 ![image](https://github.com/disabilites/Interesting-Python/blob/master/static/flappybird.gif)
