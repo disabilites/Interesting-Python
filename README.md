@@ -9,6 +9,6 @@ Some simple and interesting Python programs
 ***
 
 ## flappybird.py
-简陋版像素鸟，实现了该游戏的基本功能，将障碍物设置成红色方便碰撞检测
+简陋版像素鸟，实现了该游戏的基本功能，将障碍物设置成红色方便碰撞检测。空格开始游戏，控制鸟上升
 
 ![image](https://github.com/disabilites/Interesting-Python/blob/master/static/flappybird.gif)
